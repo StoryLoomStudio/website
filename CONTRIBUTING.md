@@ -10,14 +10,14 @@ By participating you agree to the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 Good places to start:
 
-- [Good first issues](https://github.com/storyloom/storyloom/labels/good%20first%20issue)
-- [Discussions](https://github.com/storyloom/storyloom/discussions) for questions and ideas that are not yet bug reports
+- [Good first issues](https://github.com/StoryLoomStudio/website/labels/good%20first%20issue)
+- [Discussions](https://github.com/StoryLoomStudio/StoryLoom/discussions) for questions and ideas that are not yet bug reports
 
 ## Development setup
 
 ```sh
-git clone https://github.com/storyloom/storyloom.git
-cd storyloom
+git clone https://github.com/StoryLoomStudio/website.git
+cd website
 pnpm install
 pnpm dev
 ```
@@ -31,7 +31,7 @@ pnpm lint     # must pass clean
 pnpm build    # must succeed — it type-checks
 ```
 
-CI runs exactly these. A PR that fails them will not be reviewed until it is green.
+Please verify both commands pass cleanly before submitting a PR.
 
 ## What we look for
 
@@ -63,7 +63,7 @@ Keep pull requests focused. A drive-by refactor bundled into a bug fix makes bot
 
 ## Reporting bugs
 
-Use the [bug report template](https://github.com/storyloom/storyloom/issues/new?template=bug_report.yml). The two things that matter most are what you expected and what actually happened, plus browser and OS.
+Use the [bug report template](https://github.com/StoryLoomStudio/website/issues/new?template=bug_report.yml). The two things that matter most are what you expected and what actually happened, plus browser and OS.
 
 Do not open a public issue for a security problem — see [SECURITY.md](SECURITY.md).
 

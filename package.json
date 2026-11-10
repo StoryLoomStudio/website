@@ -7,10 +7,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/storyloom/storyloom.git"
+    "url": "git+https://github.com/StoryLoomStudio/website.git"
   },
   "bugs": {
-    "url": "https://github.com/storyloom/storyloom/issues"
+    "url": "https://github.com/StoryLoomStudio/website/issues"
   },
   "packageManager": "pnpm@11.17.0",
   "engines": {

@@ -13,7 +13,7 @@ Security fixes land on the latest release. There are no long-term support branch
 
 **Do not open a public issue.**
 
-Report privately through [GitHub Security Advisories](https://github.com/storyloom/storyloom/security/advisories/new), or email **security@storyloom.app**.
+Report privately through [GitHub Security Advisories](https://github.com/StoryLoomStudio/StoryLoom/security/advisories/new), or email **security@storyloom.app**.
 
 Please include:
 

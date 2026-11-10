@@ -14,14 +14,14 @@ export const site = {
   /** Minimum supported macOS release. */
   minMacOS: "14.0",
   links: {
-    github: "https://github.com/storyloom/storyloom",
-    docs: "https://github.com/storyloom/storyloom#documentation",
-    discussions: "https://github.com/storyloom/storyloom/discussions",
-    issues: "https://github.com/storyloom/storyloom/issues",
-    contribute: "https://github.com/storyloom/storyloom/blob/main/CONTRIBUTING.md",
-    license: "https://github.com/storyloom/storyloom/blob/main/LICENSE",
-    changelog: "https://github.com/storyloom/storyloom/releases",
-    conduct: "https://github.com/storyloom/storyloom/blob/main/CODE_OF_CONDUCT.md",
+    github: "https://github.com/StoryLoomStudio/StoryLoom",
+    docs: "https://github.com/StoryLoomStudio/StoryLoom#documentation",
+    discussions: "https://github.com/StoryLoomStudio/StoryLoom/discussions",
+    issues: "https://github.com/StoryLoomStudio/StoryLoom/issues",
+    contribute: "https://github.com/StoryLoomStudio/StoryLoom/blob/main/CONTRIBUTING.md",
+    license: "https://github.com/StoryLoomStudio/StoryLoom/blob/main/LICENSE",
+    changelog: "https://github.com/StoryLoomStudio/StoryLoom/releases",
+    conduct: "https://github.com/StoryLoomStudio/StoryLoom/blob/main/CODE_OF_CONDUCT.md",
     discord: "https://discord.gg/storyloom",
   },
 } as const;

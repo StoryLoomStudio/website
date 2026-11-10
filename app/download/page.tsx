@@ -70,7 +70,7 @@ export default function DownloadPage() {
 
               <div className="mt-10">
                 <a
-                  href="https://github.com/storyloom/storyloom/releases/latest"
+                  href={`${site.links.changelog}/latest`}
                   target="_blank"
                   rel="noreferrer"
                   className={buttonVariants({ size: "lg", className: "w-full sm:w-auto" })}

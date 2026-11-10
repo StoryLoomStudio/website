@@ -7,7 +7,7 @@ body:
       value: |
         Thanks for taking the time to file this.
 
-        **Found a security vulnerability?** Do not file it here — see [SECURITY.md](https://github.com/storyloom/storyloom/blob/main/SECURITY.md).
+        **Found a security vulnerability?** Do not file it here — see [SECURITY.md](https://github.com/StoryLoomStudio/website/blob/main/SECURITY.md).
 
   - type: textarea
     id: what-happened

@@ -42,5 +42,5 @@ First public release. Native macOS, Universal binary for Apple Silicon and Intel
 - There is no AI layer in this release: no model, no provider, no API key, and nothing sent off the machine.
 - Scrivener import is planned but not included.
 
-[Unreleased]: https://github.com/storyloom/storyloom/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/storyloom/storyloom/releases/tag/v1.0.0
+[Unreleased]: https://github.com/StoryLoomStudio/StoryLoom/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/StoryLoomStudio/StoryLoom/releases/tag/v1.0.0
