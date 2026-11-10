@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question or idea
+    url: https://github.com/storyloom/storyloom/discussions
+    about: Ask anything, or float an idea that is not yet a concrete request.
+  - name: Chat on Discord
+    url: https://discord.gg/storyloom
+    about: Informal help and conversation with other writers.
+  - name: Report a security vulnerability
+    url: https://github.com/storyloom/storyloom/security/advisories/new
+    about: Please report privately — never in a public issue.
